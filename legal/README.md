@@ -9,7 +9,8 @@ Predio en Sector Cocholgüe, Tomé. Rol 409-41. Inscrito a fojas 206, N° 135 de
 | `Cesion_de_Derechos_V2.docx` | Minuta de cesión del tercio de Oriana del Carmen Barrera Herrera a J. S. Marcus Vaccarezza (81 %) y G. Costenla Navarrete (19 %). Precio: $75.000.000. |
 | `Cesion_de_Derechos_V2_referencia.pdf` | Versión V2 de la cesión en PDF que se usó como referencia para corregir el Word. |
 | `Acuerdo_entre_privados_V2.docx` | Acuerdo entre comuneros sobre copropiedad (Condominio Tipo A, Ley 21.442), asignación de lotes y aprobación del diseño del lote B. |
-| `Promesa_Cesion_Derechos_Mandato.docx` | Promesa de cesión con mandato especial e irrevocable con facultad de autocontratar (art. 2144 CC), asignación de lotes, plazo de 3 meses para la posesión efectiva de la sucesión Sanzana y multas. |
+| `Promesa_Cesion_Derechos_Mandato.docx` | Versión anterior, reemplazada por la integrada. Promesa de cesión con mandato especial e irrevocable con facultad de autocontratar (art. 2144 CC), asignación de lotes, plazo de 3 meses para la posesión efectiva de la sucesión Sanzana y multas. |
+| `Promesa_Compraventa_Derechos_Integrada.docx` | **Versión vigente.** Promesa de compraventa que integra la cesión V2 y el acuerdo entre comuneros V2 en un solo documento. La forma de dividir queda abierta entre subdivisión predial y Condominio Tipo A; decide el arquitecto si no hay acuerdo en 30 días. |
 
 ## Lotes según el plano E-01 (`../planos/E-01_emplazamiento_lote_B.dxf`)
 
@@ -23,6 +24,7 @@ Predio en Sector Cocholgüe, Tomé. Rol 409-41. Inscrito a fojas 206, N° 135 de
 
 ## Pendientes
 
+- Definir la forma de dividir: subdivisión predial o Condominio Tipo A. Para la subdivisión, revisar en el CIP la superficie predial mínima, porque el Lote B, de 425 m², es el más chico.
 - Confirmar que G. Costenla tiene el tercio que era de Claudio Alfonso Villegas Ferrari, y con qué título.
 - Completar los datos que faltan, destacados en amarillo:
   - Domicilio de Oriana.
